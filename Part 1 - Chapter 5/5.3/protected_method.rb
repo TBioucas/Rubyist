@@ -7,7 +7,7 @@ class C
     @n
   end
 
-  def compare (c)
+  def compare(c)
     if c.n > n
       puts "Bigger"
     else
